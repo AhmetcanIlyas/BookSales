@@ -1,4 +1,4 @@
-# BookStore
+# Book Store
 
 ## Description
 BookStore is a web application for selling books online. The website allows users to view and purchase novels from various categories. It includes a user registration system for accessing the site. The system features login security, stock management, product availability, prices, author and publisher information, as well as detailed book descriptions.
